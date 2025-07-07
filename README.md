@@ -1,43 +1,36 @@
-# 📚 Telegram Bot Dars Loyihasi
+# 🤖 Aiogram Telegram Bot - O‘quv Darsi
 
-Ushbu loyiha Telegram bot yaratish bo‘yicha darsda amaliy topshiriq sifatida ishlab chiqilgan. Bot Python dasturlash tili asosida yozilgan va `python-telegram-bot` kutubxonasidan foydalanadi.
+Bu loyiha Telegram bot yaratish bo‘yicha o‘quv darsi uchun ishlab chiqilgan bo‘lib, **Python** va **Aiogram** kutubxonasidan foydalanadi.
 
-Ushbu loyiha orqali siz quyidagilarni o‘rganasiz:
+Ushbu loyiha orqali talabalar quyidagilarni o‘rganadilar:
 
-- ✅ Telegram bot API bilan ishlash
-- ✅ Buyruqlar (`/start`, `/help`) bilan ishlash
-- ✅ Botga kelgan xabarlarga javob berish
-- ✅ Loyihani modullarga ajratish
-- ✅ API kalitlar bilan xavfsiz ishlash
-- ✅ `.env` fayl orqali maxfiy ma’lumotlarni yashirish
-
----
-
-## 🎯 Loyihaning Maqsadi
-
-Talabalarga **Telegram bot** yaratish ko‘nikmasini berish, real amaliyot orqali:
-
-- Python bilan mustahkam ishlash,
-- API texnologiyasini tushunish,
-- Telegram platformasiga kod bilan ishlov berishni o‘rgatish.
+- Aiogram kutubxonasi bilan ishlash
+- Telegram Bot API dan foydalanish
+- Botga buyruqlar (`/start`, `/help`, va h.k.) qo‘shish
+- Asinxron (`async`) dasturlash asoslari
+- Loyihani strukturaga ajratish
+- `.env` bilan tokenni xavfsiz saqlash
 
 ---
 
-## 🧱 Asosiy Talablar
+## 🎯 Maqsad
 
-Quyidagilar kompyuteringizda o‘rnatilgan bo‘lishi kerak:
+**Telegram botni yaratishni o‘rganish** va **real loyihalar uchun poydevor qo‘yish**.
 
-- Python 3.10+
+---
+
+## 🧰 Talablar
+
+- Python 3.10 yoki yuqoriroq
 - Git
-- Telegram account
-- BotFather orqali yaratilgan bot tokeni
+- Telegram account + BotFather orqali olingan bot tokeni
 
 ---
 
-## 🔧 O‘rnatish Bosqichlari
+## 🔧 O‘rnatish bosqichlari
 
 1. Repozitoriyani yuklab oling:
 
 ```bash
-git clone https://github.com/yourusername/telegram-bot-darsloyiha.git
-cd telegram-bot-darsloyiha
+git clone https://github.com/yourusername/aiogram-bot-dars.git
+cd aiogram-bot-dars
