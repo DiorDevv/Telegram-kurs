@@ -32,5 +32,5 @@ Ushbu loyiha orqali talabalar quyidagilarni o‘rganadilar:
 1. Repozitoriyani yuklab oling:
 
 ```bash
-git clone https://github.com/yourusername/aiogram-bot-dars.git
-cd aiogram-bot-dars
+git clone https://github.com/yourusername/Telegram-kurs.git
+cd Telegram-kurs
