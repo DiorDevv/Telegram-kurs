@@ -21,6 +21,7 @@ async def echo_handler(message: types.Message):
 async def main():
     await dp.start_polling(bot)
 
+
 # Asosiy ishga tushirish
 if __name__ == "__main__":
     asyncio.run(main())
