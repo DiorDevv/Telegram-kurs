@@ -1,0 +1,2 @@
+BOT_TOKEN = "8068183517:AAHtlfREsP8iuQNE-Ktw18Zi9zmuCwAtrfM"
+CHANNEL_ID = "@sazz_test"
