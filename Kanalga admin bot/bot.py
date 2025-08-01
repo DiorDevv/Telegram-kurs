@@ -11,6 +11,7 @@ register_handlers(db)
 
 
 
+
 async def main():
     print("Bot started")
     await db.start_polling(bot)
