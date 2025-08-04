@@ -8,6 +8,9 @@ BOT_TOKEN = "123456789:ABCDEF-your-real-token"
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
 
+
+
+
 # Har qanday matnli xabarga ishlovchi funksiya
 @dp.message()
 async def echo_handler(message: types.Message):
