@@ -11,6 +11,8 @@ dp = Dispatcher()
 
 
 
+
+
 # Har qanday matnli xabarga ishlovchi funksiya
 @dp.message()
 async def echo_handler(message: types.Message):
