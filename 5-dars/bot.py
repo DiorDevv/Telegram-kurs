@@ -17,6 +17,8 @@ main_menu = InlineKeyboardMarkup(inline_keyboard=[
     [InlineKeyboardButton(text="🤖 Bot haqida", callback_data="about")]
 ])
 
+
+
 @dp.message(CommandStart())
 async def start_handler(message: Message):
     await message.answer(

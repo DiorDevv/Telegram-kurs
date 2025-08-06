@@ -20,7 +20,7 @@ main_menu = InlineKeyboardMarkup(inline_keyboard=[
 async def start_command(message: Message):
     await message.answer("Salom! Quyidagilardan birini tanlang ", reply_markup=main_menu)
 
-
+"""Inline tugmalar yordamida foydalanuvchi tanlovini amalga oshirish uchun"""
 @dp.callback_query()
 async def callback_query(callback: CallbackQuery):
     data = callback.data
