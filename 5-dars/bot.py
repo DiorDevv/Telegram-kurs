@@ -16,7 +16,7 @@ main_menu = InlineKeyboardMarkup(inline_keyboard=[
     [InlineKeyboardButton(text="📍 Lokatsiya", callback_data="location")],
     [InlineKeyboardButton(text="🤖 Bot haqida", callback_data="about")]
 ])
-
+print("Bot ishga tush")
 
 
 @dp.message(CommandStart())
