@@ -26,6 +26,8 @@ async def start_handler(message: Message):
         reply_markup=main_menu
     )
 
+
+
 @dp.callback_query()
 async def callback_handler(callback: CallbackQuery):
     data = callback.data
