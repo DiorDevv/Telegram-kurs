@@ -21,7 +21,9 @@ async def echo_handler(message: types.Message):
         await message.answer("Va alaykum assalom!")
     else:
         await message.answer(f"Siz yozgan matn: {message.text}")
+pass
 
+print("Bot ishga tush")
 # Botni ishga tushirish funksiyasi
 async def main():
     await dp.start_polling(bot)
