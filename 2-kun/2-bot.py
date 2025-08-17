@@ -13,6 +13,8 @@ dp = Dispatcher()
 
 
 
+
+
 # Har qanday matnli xabarga ishlovchi funksiya
 @dp.message()
 async def echo_handler(message: types.Message):
@@ -33,3 +35,5 @@ async def main():
 if __name__ == "__main__":
     asyncio.run(main())
 # hbwdclj
+
+pass
