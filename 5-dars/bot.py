@@ -19,6 +19,7 @@ main_menu = InlineKeyboardMarkup(inline_keyboard=[
 ])
 print("Bot ishga tush")
 
+print()
 
 @dp.message(CommandStart())
 async def start_handler(message: Message):
