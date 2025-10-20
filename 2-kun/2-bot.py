@@ -14,14 +14,6 @@ print("Bot ishga tush")
 
 print("Bot ishga tush")
 
-
-
- 
-
-
-
-
-
 # Har qanday matnli xabarga ishlovchi funksiya
 @dp.message()
 async def echo_handler(message: types.Message):
@@ -31,6 +23,7 @@ async def echo_handler(message: types.Message):
     else:
         await message.answer(f"Siz yozgan matn: {message.text}")
 pass
+
 
 print("Bot ishga tush")
 # Botni ishga tushirish funksiyasi
