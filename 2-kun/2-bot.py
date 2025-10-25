@@ -28,6 +28,7 @@ pass
 
 
 
+
 print("Bot ishga tush")
 # Botni ishga tushirish funksiyasi
 async def main():
