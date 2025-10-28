@@ -13,7 +13,6 @@ print("Bot ishga tush")
 
 
 
-
 print("Bot ishga tush")
 
 # Har qanday matnli xabarga ishlovchi funksiya
