@@ -8,20 +8,8 @@ BOT_TOKEN = "123456789:ABCDEF-your-real-token"
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
 
+
 print("Bot ishga tush")
-
-
-
-
-
-
-
-
-
-
-
-
-
 print("Bot ishga tush")
 
 
