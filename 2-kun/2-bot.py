@@ -20,6 +20,7 @@ print("Bot ishga tush")
 """
 
 """
+
 @dp.message()
 async def echo_handler(message: types.Message):
     text = message.text.lower()
