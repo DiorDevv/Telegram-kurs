@@ -10,6 +10,7 @@ dp = Dispatcher()
 
 
 
+print("nevjen;")
 
 print("Bot ishga tush")
 
