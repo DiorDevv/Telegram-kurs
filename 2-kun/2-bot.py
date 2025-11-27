@@ -17,6 +17,7 @@ print("Bot ishga tush")
 
 
 
+
 print("Bot ishga tush")
 for i in range(3):
     pass
