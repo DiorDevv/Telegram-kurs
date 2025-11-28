@@ -15,6 +15,7 @@ print("nevjen;")
 print("Bot ishga tush")
 
 
+
 print("salom bu test cuhun")
 
 

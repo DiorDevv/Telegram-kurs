@@ -19,6 +19,7 @@ buttons = [
     [KeyboardButton(text="❓ 4-Button - Savol-javob")]
 ]
 
+
 menu = ReplyKeyboardMarkup(keyboard=buttons, resize_keyboard=True)
 
 
