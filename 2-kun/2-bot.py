@@ -26,6 +26,7 @@ for i in range(3):
 
 
 
+
 print("Bot ishga tush")
 
 
