@@ -17,6 +17,7 @@ async def start(message: types.Message):
         await message.answer("Salom, foydalanuvchi!")
 
 
+
 # Ishga tushirish
 async def main():
     await dp.start_polling(bot)
