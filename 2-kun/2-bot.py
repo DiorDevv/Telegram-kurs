@@ -15,12 +15,13 @@ print("nevjen;")
 print("Bot ishga tush")
 
 
-
+print("salom bu test cuhun")
 
 
 print("Bot ishga tush")
 for i in range(3):
     pass
+
 
 
 
