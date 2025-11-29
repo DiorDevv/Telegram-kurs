@@ -8,6 +8,7 @@ dp = Dispatcher()
 
 
 
+
 # /start komandasi
 @dp.message(CommandStart())
 async def start(message: types.Message):

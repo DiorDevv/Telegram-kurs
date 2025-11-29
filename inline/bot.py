@@ -19,6 +19,7 @@ main_menu = InlineKeyboardMarkup(inline_keyboard=[
 
 
 
+
 @dp.message(CommandStart())
 async def start_command(message: Message):
     await message.answer("Salom! Quyidagilardan birini tanlang ", reply_markup=main_menu)

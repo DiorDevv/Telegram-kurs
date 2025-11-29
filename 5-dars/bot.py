@@ -11,6 +11,7 @@ bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
 
+
 print('Bot ishga tush')
 # Inline tugmalar
 main_menu = InlineKeyboardMarkup(inline_keyboard=[
@@ -22,6 +23,8 @@ main_menu = InlineKeyboardMarkup(inline_keyboard=[
 print("Bot ishga tush")
 
 print()
+
+
 
 
 
