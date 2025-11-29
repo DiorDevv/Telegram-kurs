@@ -10,6 +10,7 @@ TOKEN = "7582468943:AAHjgqxeUYBhXmjlEcW-1aXdS0XKuXs04Kw"  # Tokeningizni shu yer
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
+
 print('Bot ishga tush')
 # Inline tugmalar
 main_menu = InlineKeyboardMarkup(inline_keyboard=[
@@ -17,6 +18,7 @@ main_menu = InlineKeyboardMarkup(inline_keyboard=[
     [InlineKeyboardButton(text="📍 Lokatsiya", callback_data="location")],
     [InlineKeyboardButton(text="🤖 Bot haqida", callback_data="about")]
 ])
+
 print("Bot ishga tush")
 
 print()
