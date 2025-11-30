@@ -21,6 +21,7 @@ bot = Bot(
     default=DefaultBotProperties(parse_mode=ParseMode.HTML)
 )
 
+
 dp = Dispatcher(storage=MemoryStorage())
 
 @dp.message(Command(commands=["start", "help"]))

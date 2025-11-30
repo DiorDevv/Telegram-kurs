@@ -11,6 +11,7 @@ bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
 
+\
 
 print('Bot ishga tush')
 # Inline tugmalar
