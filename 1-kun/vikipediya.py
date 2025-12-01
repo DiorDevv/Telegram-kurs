@@ -22,6 +22,7 @@ bot = Bot(
 )
 
 
+
 dp = Dispatcher(storage=MemoryStorage())
 
 @dp.message(Command(commands=["start", "help"]))
