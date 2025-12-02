@@ -12,7 +12,8 @@ dp = Dispatcher()
 
 
 
-\
+
+
 
 print('Bot ishga tush')
 
