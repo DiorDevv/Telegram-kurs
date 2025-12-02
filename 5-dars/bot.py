@@ -12,9 +12,11 @@ dp = Dispatcher()
 
 
 
-\
+
+
 
 print('Bot ishga tush')
+
 # Inline tugmalar
 main_menu = InlineKeyboardMarkup(inline_keyboard=[
     [InlineKeyboardButton(text="🕐 Sana va vaqt", callback_data="datetime")],
