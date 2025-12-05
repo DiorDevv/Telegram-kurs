@@ -18,6 +18,8 @@ dp = Dispatcher()
 
 
 
+
+
 print('Bot ishga tush')
 
 # Inline tugmalar

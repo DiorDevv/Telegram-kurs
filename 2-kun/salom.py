@@ -9,7 +9,8 @@ dp = Dispatcher()
 
 
 
-print()
+print("salom")
+@dp.message_handler(commands="start")
 # /start komandasi
 @dp.message(CommandStart())
 async def start(message: types.Message):
