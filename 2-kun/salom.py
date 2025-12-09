@@ -9,6 +9,7 @@ dp = Dispatcher()
 
 
 
+
 print("salom")
 @dp.message_handler(commands="start")
 # /start komandasi
