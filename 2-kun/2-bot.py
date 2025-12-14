@@ -13,7 +13,15 @@ dp = Dispatcher()
 print("nevjen;")
 
 print("Bot ishga tush")
-
+print("Bot ishga tush")
+print("Bot ishga tush")
+print("Bot ishga tush")
+print("Bot ishga tush")
+print("Bot ishga tush")
+print("Bot ishga tush")
+print("Bot ishga tush")
+print("Bot ishga tush")
+print("Bot ishga tush")
 
 
 
