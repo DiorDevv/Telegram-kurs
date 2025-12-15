@@ -21,7 +21,7 @@ bot = Bot(
     default=DefaultBotProperties(parse_mode=ParseMode.HTML)
 )
 
-
+print('salom')
 
 dp = Dispatcher(storage=MemoryStorage())
 
