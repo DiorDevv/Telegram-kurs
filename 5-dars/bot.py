@@ -29,6 +29,8 @@ print("Bot ishga tush")
 
 
 
+
+
 print('Bot ishga tush')
 
 # Inline tugmalar
