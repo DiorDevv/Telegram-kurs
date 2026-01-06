@@ -36,6 +36,7 @@ print("Salom nima gap")
 
 
 
+
 print("Bot ishga tush")
 
 
