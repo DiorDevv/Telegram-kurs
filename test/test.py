@@ -46,6 +46,7 @@ lkl
 
 
 
+
 print("Bot ishga tush")
 
 
