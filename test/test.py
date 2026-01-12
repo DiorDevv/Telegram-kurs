@@ -8,6 +8,7 @@ print("Bot ishga tush")
 
 
 
+
 print("salom ")
 print("Salom nima gap")
 
