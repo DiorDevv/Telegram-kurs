@@ -14,7 +14,8 @@ dp = Dispatcher()
 
 
 
-# Tugmalar (butonlar)
+# Tugmal
+# ar (butonlar)
 buttons = [
     [KeyboardButton(text="🔘 1-Button - Oddiy Matn")],
     [KeyboardButton(text="📌 2-Button - Havola berish")],
